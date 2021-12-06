@@ -1,0 +1,17 @@
+.body-background{
+    background-color: lightgreen;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: red;
+    font-size: 42px;
+}
+#my_canvas{
+    border: width 10px; 
+    background-color: white;
+    border-style: ridge;
+}
+body{
+    text-align: center;
+}
